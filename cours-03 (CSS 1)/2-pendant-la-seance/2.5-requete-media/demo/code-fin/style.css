@@ -1,0 +1,23 @@
+/* CSS fourni dans le fichier de départ */
+
+.column {
+    box-sizing: border-box;
+}
+
+/* CSS à écrire */
+.column {
+	width: 33%;
+	float: left;
+}
+ 	
+@media screen and (max-width: 992px) {
+	.column {
+		width: 50%;	
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.column {
+		width: 100%;	
+	}
+}

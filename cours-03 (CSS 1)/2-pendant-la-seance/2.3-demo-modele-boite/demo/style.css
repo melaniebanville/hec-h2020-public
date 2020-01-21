@@ -1,0 +1,20 @@
+p {
+	border: 1px solid black;
+	/*padding: 50px;*/
+	padding: 50px 50px 50px 50px;
+	margin-bottom: 100px;
+}
+
+#para-special {
+	border: none;
+	border-bottom: 3px solid pink;
+	border-right: 2px dotted green;
+}
+
+span {
+	border: 2px dashed darkgrey;
+	padding-left: 22px;
+	/*color: rgb(122, 11, 50);*/
+	/*color: #ff11aa;*/
+	color: green;
+}

@@ -1,0 +1,9 @@
+p {
+	color: pink;
+}
+
+#para-qui-float {
+	float: left;
+	width: 40%;
+	color: blue;
+}

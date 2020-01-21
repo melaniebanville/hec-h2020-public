@@ -1,0 +1,12 @@
+p {
+	font-size: 2rem;
+	padding-bottom: 3rem;
+}
+
+#parent {
+	font-size: 14px;
+}
+
+#para-test {
+	font-size: 2em;
+}
