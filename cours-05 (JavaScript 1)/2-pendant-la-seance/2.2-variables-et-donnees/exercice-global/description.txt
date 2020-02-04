@@ -28,7 +28,7 @@ Il s'agit d'un nombre : Cette variable contiendra le tarif pour les livraisons d
 Consignes précises :
 6.1 Donnez un contexte pour chacune des variables. Ex: le pays d'expédition est ... 
 Vous aurez besoin de la concaténation pour y arrier
-6.2 Afficher le tableau complet dans la console
+
 
 7. Ajoutez un nouveau pays au tableau, avec l'action (méthode) .push()
 7.1 Regardez le nouveau contenu de paysExpedition dans la console
